@@ -1,2 +1,2 @@
 # codeigniter3-imageupload
-Image upload with thumbnail creation in Codeigniter 3
+Image uploading with thumbnail creation in Codeigniter 3 using the inbuilt pfile uploading class and image manipulation class.
